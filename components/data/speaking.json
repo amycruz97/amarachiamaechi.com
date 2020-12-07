@@ -1,0 +1,48 @@
+{
+    "past": [{
+            "id": "1",
+            "title": "Breaking into the Tech Ecosystem.",
+            "date": "April 6, 2019",
+            "event": "ForLoop Enugu",
+            "link": "https://speakerdeck.com/amycruz97/breaking-into-the-tech-ecosystem"
+        },
+        {
+            "id": "2",
+            "title": "Sharing Valuable Knowledge: A Recipe for  Building Your Infleunce in the Tech Space.",
+            "date": "October 13, 2019",
+            "event": "CONCATENATE Conference",
+            "link": "https://speakerdeck.com/amycruz97/sharing-valuable-knowledge-a-recipe-for-building-your-influence-in-the-tech-space"
+        },
+        {
+            "id": "3",
+            "title": "Becoming a standout contributor",
+            "date": "February 22 2020",
+            "even": "Open source festival",
+            "link": "https://speakerdeck.com/amycruz97/becoming-a-stand-out-contributor"
+        },
+        {
+            "id": "3",
+            "title": "Effective Networking the Right Way",
+            "date": "March 2 2020",
+            "even": "Vue vixens Day US 2020",
+            "link": "https://speakerdeck.com/amycruz97/effective-networking-the-right-way"
+        },
+
+        {
+            "id": "",
+            "title": "",
+            "date": "",
+            "even": "",
+            "link": ""
+        },
+        {
+            "id": "",
+            "title": "",
+            "date": "",
+            "even": "",
+            "link": ""
+        }
+
+
+    ]
+}
